@@ -1,0 +1,16 @@
+PODS:
+  - sampleImageViewDemo (0.1.0)
+
+DEPENDENCIES:
+  - sampleImageViewDemo (from `../`)
+
+EXTERNAL SOURCES:
+  sampleImageViewDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  sampleImageViewDemo: 1bd1070ab26478068d213ae1fb6a0273b8eb41df
+
+PODFILE CHECKSUM: c7e6a570b4419acfde3fd0eec9188e734b737d39
+
+COCOAPODS: 1.11.3

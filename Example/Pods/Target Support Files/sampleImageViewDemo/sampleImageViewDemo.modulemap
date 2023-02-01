@@ -1,0 +1,6 @@
+framework module sampleImageViewDemo {
+  umbrella header "sampleImageViewDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
