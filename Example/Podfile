@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'sampleImageViewDemo_Example' do
+  pod 'sampleImageViewDemo', :path => '../'
+
+  target 'sampleImageViewDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
