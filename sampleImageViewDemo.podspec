@@ -28,9 +28,15 @@ s.description      = <<-DESC
   s.source           = { :git => 'https://github.com/alekyaios/sampleImageViewDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '13.0'
 
   s.source_files = 'Classes/**/*.swift'
+  
+  s.swift_version = "5.0"
+  
+  s.platforms = {
+      "ios": "12.0"
+  }
   
   # s.resource_bundles = {
   #   'sampleImageViewDemo' => ['sampleImageViewDemo/Assets/*.png']
