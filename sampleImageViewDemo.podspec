@@ -38,6 +38,7 @@ s.description      = <<-DESC
       "ios": "12.0"
   }
   
+  s.resources = ['sampleImageViewDemo/customView.xib']
   # s.resource_bundles = {
   #   'sampleImageViewDemo' => ['sampleImageViewDemo/Assets/*.png']
   # }
