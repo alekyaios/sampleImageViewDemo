@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B0AA4FA298B7A0C00792A35 /* customView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BEDAA8F298A67E3001B75ED /* customView.xib */; };
+		0B0AA4FB298B7A0E00792A35 /* customView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0BEDAA8F298A67E3001B75ED /* customView.xib */; };
 		0BEDAA8E298A67E0001B75ED /* customView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BEDAA8D298A67E0001B75ED /* customView.swift */; };
 		1E02AFFA30D238CE4029BB860AA8F835 /* sampleImageViewDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BE9DF52FB82EC26BCD0B6CB74EF28E3E /* sampleImageViewDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		68E07E70070897F2FF5D2D4D37BABF22 /* sampleImageViewDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = BFC1606E62A2274C6700661650F6EF7E /* sampleImageViewDemo-dummy.m */; };
@@ -361,6 +363,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B0AA4FB298B7A0E00792A35 /* customView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -375,6 +378,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B0AA4FA298B7A0C00792A35 /* customView.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
